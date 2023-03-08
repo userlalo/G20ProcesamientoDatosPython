@@ -1,0 +1,63 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+
+</title></head>
+<body>
+   <form method="post" action="./exportacion.aspx?cveser=6000000004%2c6000000001%2c6000000007&amp;ag=00&amp;bie=false&amp;aamin=1900&amp;aamax=9999&amp;ordena=a&amp;ordenaPeriodo=ap&amp;orientacion=v&amp;frecuencia=Todo&amp;estadistico=false&amp;esquema=&amp;bdesplaza=False&amp;FileFormat=csv&amp;tc=indicadorVertical&amp;subapp=&amp;tematica=6&amp;name=Estados+Unidos+Mexicanos&amp;lang=es" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="z7f2ESzoBE6WZX+/0SX7IzkYfXlYGYy41wQ51txrgqSb3TW8qI3+QONsEyDpwPC4QN1M/mgEUevd4C7/i2zDRlWV8KljtZEnhBpHG+gCvUiiJHj0ow08ugN/JM5qJEdS" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="374CC3A0" />
+</div>
+        <div>
+            <table id="tblTitulo" style="width:100%;">
+
+</table>
+
+
+            <table id="tablePrincipalSinScroll" style="width:100%;">
+	<tr id="TableRow5">
+		<td id="TableCell1"><table id="DatosRepetidosJ" style="height:24px;width:100%;">
+			<tr id="TableRow7" style="height:12px;">
+				<td id="TableCellJerarquia"></td>
+			</tr>
+		</table><table id="DatosRepetidosUF" style="height:24px;width:100%;">
+			<tr id="TableRow6" style="height:12px;">
+				<td id="TableCellUnidadMedidayFrecuencia"></td>
+			</tr>
+		</table></td>
+	</tr><tr id="TableRowTabContainer">
+		<td id="TableCell1TabContainer"><table id="tableContainerSinScroll" cellspacing="0" cellpadding="0" bordercolorlight="#75BABE" bordercolordark="#FFFFFF" style="border-width:1px;border-style:solid;width:10%;border-collapse:collapse;">
+
+		</table></td>
+	</tr><tr id="TableRow1">
+		<td id="TableCell2"><table id="tableContainerNotaFuente" style="width:100%;">
+			<tr id="TableRow2">
+				<td id="TableCellNota"></td>
+			</tr><tr id="TableRow10">
+				<td id="TableCellExepciones"></td>
+			</tr><tr id="TableRow3">
+				<td id="TableCellCifras"></td>
+			</tr><tr id="TableRow4">
+				<td id="TableCellFuente"></td>
+			</tr><tr id="TableRow9">
+				<td id="TableCell3"></td>
+			</tr><tr id="TableRow8">
+				<td id="TableCellFecha"></td>
+			</tr><tr id="TableRowAviso">
+				<td id="TableCellAviso"></td>
+			</tr>
+		</table></td>
+	</tr>
+</table>
+        </div>
+    </form>
+</body>
+</html>
